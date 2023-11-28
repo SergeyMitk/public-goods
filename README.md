@@ -133,7 +133,7 @@ seed: a8d12536bdcc210ac35a9f092f3295360b97830d@seed-terra-01.stakeflow.io:33007
 peer: a8d12536bdcc210ac35a9f092f3295360b97830d@peer-terra-01.stakeflow.io:33007  
 RPC: https://rpc-terra-01.stakeflow.io  
 API: https://api-terra-01.stakeflow.io  
-gRPC: grpc-terra-01.stakeflow.io:1102  
+gRPC: grpc-terra-01.stakeflow.io:33002  
 explorer: https://stakeflow.io/terra  
 
 ### Umee
@@ -145,16 +145,16 @@ gRPC: grpc-umee-01.stakeflow.io:9990
 explorer: https://stakeflow.io/umee  
 
 ### Persistence core-2 Testnet
-seed: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@seed-persistence-testnet-01.stakeflow.io  
-peer: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@peer-persistence-testnet-01.stakeflow.io  
+seed: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@seed-persistence-testnet-01.stakeflow.io:11006  
+peer: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@peer-persistence-testnet-01.stakeflow.io:11006  
 RPC: https://rpc-persistence-testnet-01.stakeflow.io  
 API: https://api-persistence-testnet-01.stakeflow.io  
 gRPC: grpc-persistence-testnet-01.stakeflow.io:11001  
 explorer: https://stakeflow.io/persistence-testnet  
 
 ### Juno Testnet
-seed: 3d934af6e80077063ff2505490d2130bb3b237c4@seed-juno-testnet-01.stakeflow.io  
-peer: 3d934af6e80077063ff2505490d2130bb3b237c4@peer-juno-testnet-01.stakeflow.io  
+seed: 3d934af6e80077063ff2505490d2130bb3b237c4@seed-juno-testnet-01.stakeflow.io:13007  
+peer: 3d934af6e80077063ff2505490d2130bb3b237c4@peer-juno-testnet-01.stakeflow.io:13007  
 RPC: https://rpc-juno-testnet-01.stakeflow.io  
 API: https://api-juno-testnet-01.stakeflow.io  
 gRPC: grpc-juno-testnet-01.stakeflow.io:13002  
@@ -168,9 +168,33 @@ gRPC: grpc-comdex-01.stakeflow.io:10002
 explorer: https://stakeflow.io/comdex  
 
 ### Comdex Testnet
-seed: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@seed-comdex-testnet-01.stakeflow.io  
-peer: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@peer-comdex-testnet-01.stakeflow.io  
+seed: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@seed-comdex-testnet-01.stakeflow.io:11007  
+peer: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@peer-comdex-testnet-01.stakeflow.io:11007  
 RPC: https://rpc-comdex-testnet-01.stakeflow.io  
 API: https://api-comdex-testnet-01.stakeflow.io/node_info  
 gRPC: grpc-comdex-testnet-01.stakeflow.io:11002  
 explorer: https://stakeflow.io/comdex-testnet  
+
+### Celestia mainnet
+seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007
+peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007
+RPC: https://rpc-celestia-01.stakeflow.io
+API: https://api-celestia-01.stakeflow.io
+gRPC: grpc-celestia-01.stakeflow.io:15002
+explorer: https://stakeflow.io/celestia
+
+### Celestia mocha testnet
+seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007
+peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007
+RPC: https://rpc-celestia-testnet-01.stakeflow.io
+API: https://api-celestia-testnet-01.stakeflow.io
+gRPC: grpc-celestia-testnet-01.stakeflow.io:16002
+https://stakeflow.io/celestia-testnet
+
+### Union testnet
+seed: 0f9db7423979991b0e6204b6d3f0e51876bd3a18@seed-union-testnet-01.stakeflow.io:17007
+peer: 0f9db7423979991b0e6204b6d3f0e51876bd3a18@peer-union-testnet-01.stakeflow.io:17007
+RPC: https://rpc-union-testnet-01.stakeflow.io
+API: https://api-union-testnet-01.stakeflow.io
+gRPC: grpc-union-testnet-01.stakeflow.io:17002
+https://stakeflow.io/union-testnet
