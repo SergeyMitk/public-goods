@@ -169,32 +169,40 @@ explorer: https://stakeflow.io/comdex
 
 ### Comdex Testnet
 seed: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@seed-comdex-testnet-01.stakeflow.io:11007  
-peer: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@peer-comdex-testnet-01.stakeflow.io:11007  
+peer: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@peer-comdex-testnet-01.stakeflow.io:11007   
 RPC: https://rpc-comdex-testnet-01.stakeflow.io  
 API: https://api-comdex-testnet-01.stakeflow.io/node_info  
 gRPC: grpc-comdex-testnet-01.stakeflow.io:11002  
 explorer: https://stakeflow.io/comdex-testnet  
 
 ### Celestia mainnet
-seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007
-peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007
-RPC: https://rpc-celestia-01.stakeflow.io
-API: https://api-celestia-01.stakeflow.io
-gRPC: grpc-celestia-01.stakeflow.io:15002
-explorer: https://stakeflow.io/celestia
+seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007   
+peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007   
+RPC: https://rpc-celestia-01.stakeflow.io   
+API: https://api-celestia-01.stakeflow.io   
+gRPC: grpc-celestia-01.stakeflow.io:15002   
+explorer: https://stakeflow.io/celestia   
 
 ### Celestia mocha testnet
-seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007
-peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007
-RPC: https://rpc-celestia-testnet-01.stakeflow.io
-API: https://api-celestia-testnet-01.stakeflow.io
-gRPC: grpc-celestia-testnet-01.stakeflow.io:16002
-https://stakeflow.io/celestia-testnet
+seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007   
+peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007   
+RPC: https://rpc-celestia-testnet-01.stakeflow.io   
+API: https://api-celestia-testnet-01.stakeflow.io   
+gRPC: grpc-celestia-testnet-01.stakeflow.io:16002   
+explorer: https://stakeflow.io/celestia-testnet   
 
 ### Union testnet
-seed: 0f9db7423979991b0e6204b6d3f0e51876bd3a18@seed-union-testnet-01.stakeflow.io:17007
-peer: 0f9db7423979991b0e6204b6d3f0e51876bd3a18@peer-union-testnet-01.stakeflow.io:17007
-RPC: https://rpc-union-testnet-01.stakeflow.io
-API: https://api-union-testnet-01.stakeflow.io
-gRPC: grpc-union-testnet-01.stakeflow.io:17002
-https://stakeflow.io/union-testnet
+seed: 0c93a2ec330b9c291cce2fa992fb7b11813f9aa7@seed-union-testnet-01.stakeflow.io:19007   
+peer: 0c93a2ec330b9c291cce2fa992fb7b11813f9aa7@peer-union-testnet-01.stakeflow.io:19007   
+RPC: https://rpc-union-testnet-01.stakeflow.io   
+API: https://api-union-testnet-01.stakeflow.io   
+gRPC: grpc-union-testnet-01.stakeflow.io:19002   
+explorer: https://stakeflow.io/union-testnet   
+
+### Band Protocol testnet
+seed: d9f8be9edd95794e08a6447cfb8bc02ace551ff8@seed-band-testnet-01.stakeflow.io   
+peer: d9f8be9edd95794e08a6447cfb8bc02ace551ff8@peer-band-testnet-01.stakeflow.io   
+RPC: http://rpc-band-testnet-01.stakeflow.io/   
+API: http://api-band-testnet-01.stakeflow.io/   
+gRPC: grpc-band-testnet-01.stakeflow.io:20002   
+explorer: https://stakeflow.io/band-protocol-testnet   
