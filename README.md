@@ -32,6 +32,46 @@ API: https://api-band-01.stakeflow.io
 gRPC: grpc-band-01.stakeflow.io:2502  
 explorer: https://stakeflow.io/band-protocol  
 
+### Band Protocol Testnet
+seed: d9f8be9edd95794e08a6447cfb8bc02ace551ff8@seed-band-testnet-01.stakeflow.io:20007   
+peer: d9f8be9edd95794e08a6447cfb8bc02ace551ff8@peer-band-testnet-01.stakeflow.io:20007   
+RPC: http://rpc-band-testnet-01.stakeflow.io/   
+API: http://api-band-testnet-01.stakeflow.io/   
+gRPC: grpc-band-testnet-01.stakeflow.io:20002   
+explorer: https://stakeflow.io/band-protocol-testnet   
+
+### Celestia
+seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007   
+peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007   
+RPC: https://rpc-celestia-01.stakeflow.io   
+API: https://api-celestia-01.stakeflow.io   
+gRPC: grpc-celestia-01.stakeflow.io:15002   
+explorer: https://stakeflow.io/celestia   
+
+### Celestia Mocha Testnet
+seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007   
+peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007   
+RPC: https://rpc-celestia-testnet-01.stakeflow.io   
+API: https://api-celestia-testnet-01.stakeflow.io   
+gRPC: grpc-celestia-testnet-01.stakeflow.io:16002   
+explorer: https://stakeflow.io/celestia-testnet   
+
+### Comdex
+seed: 88ba33fbdf0279efaf27cff629f3cf72814d4069@seed-comdex-01.stakeflow.io:10007  
+peer: 88ba33fbdf0279efaf27cff629f3cf72814d4069@peer-comdex-01.stakeflow.io:10007  
+RPC: https://rpc-comdex-01.stakeflow.io  
+API: https://api-comdex-01.stakeflow.io  
+gRPC: grpc-comdex-01.stakeflow.io:10002  
+explorer: https://stakeflow.io/comdex  
+
+### Comdex Testnet
+seed: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@seed-comdex-testnet-01.stakeflow.io:11007  
+peer: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@peer-comdex-testnet-01.stakeflow.io:11007   
+RPC: https://rpc-comdex-testnet-01.stakeflow.io  
+API: https://api-comdex-testnet-01.stakeflow.io/node_info  
+gRPC: grpc-comdex-testnet-01.stakeflow.io:11002  
+explorer: https://stakeflow.io/comdex-testnet  
+
 ### Cosmos Hub
 seed: fe21dd474640247888fc7c4dce82da8da08a8bfd@seed-cosmos-hub-01.stakeflow.io:26656  
 peer: fe21dd474640247888fc7c4dce82da8da08a8bfd@peer-cosmos-hub-01.stakeflow.io:26656  
@@ -88,6 +128,13 @@ API: https://api-juno-01.stakeflow.io
 gRPC: grpc-juno-01.stakeflow.io:2302  
 explorer: https://stakeflow.io/juno  
 
+### Juno Testnet
+seed: 3d934af6e80077063ff2505490d2130bb3b237c4@seed-juno-testnet-01.stakeflow.io:13007  
+peer: 3d934af6e80077063ff2505490d2130bb3b237c4@peer-juno-testnet-01.stakeflow.io:13007  
+RPC: https://rpc-juno-testnet-01.stakeflow.io  
+API: https://api-juno-testnet-01.stakeflow.io  
+gRPC: grpc-juno-testnet-01.stakeflow.io:13002  
+
 ### Kava
 seed: 7ab4b78fbe5ee9e3777b21464a3162bd4cc17f57@seed-kava-01.stakeflow.io:1206  
 peer: 7ab4b78fbe5ee9e3777b21464a3162bd4cc17f57@peer-kava-01.stakeflow.io:1206  
@@ -111,6 +158,14 @@ RPC: https://rpc-persistence-01.stakeflow.io
 API: https://api-persistence-01.stakeflow.io  
 gRPC: grpc-persistence-01.stakeflow.io:49090  
 explorer: https://stakeflow.io/persistence  
+
+### Persistence Testnet
+seed: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@seed-persistence-testnet-01.stakeflow.io:11006  
+peer: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@peer-persistence-testnet-01.stakeflow.io:11006  
+RPC: https://rpc-persistence-testnet-01.stakeflow.io  
+API: https://api-persistence-testnet-01.stakeflow.io  
+gRPC: grpc-persistence-testnet-01.stakeflow.io:11001  
+explorer: https://stakeflow.io/persistence-testnet  
 
 ### Shentu
 seed: f97807210f9547b8a5016fb18000b46072ca5e30@seed-shentu-01.stakeflow.io:2407  
@@ -136,62 +191,7 @@ API: https://api-terra-01.stakeflow.io
 gRPC: grpc-terra-01.stakeflow.io:33002  
 explorer: https://stakeflow.io/terra  
 
-### Umee
-seed: 88373a3bf385c20ef0b4040f924cd99848012535@seed-umee-01.stakeflow.io:26696  
-peer: 88373a3bf385c20ef0b4040f924cd99848012535@peer-umee-01.stakeflow.io:26696  
-RPC: https://rpc-umee-01.stakeflow.io  
-API: https://api-umee-01.stakeflow.io  
-gRPC: grpc-umee-01.stakeflow.io:9990  
-explorer: https://stakeflow.io/umee  
-
-### Persistence core-2 Testnet
-seed: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@seed-persistence-testnet-01.stakeflow.io:11006  
-peer: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@peer-persistence-testnet-01.stakeflow.io:11006  
-RPC: https://rpc-persistence-testnet-01.stakeflow.io  
-API: https://api-persistence-testnet-01.stakeflow.io  
-gRPC: grpc-persistence-testnet-01.stakeflow.io:11001  
-explorer: https://stakeflow.io/persistence-testnet  
-
-### Juno Testnet
-seed: 3d934af6e80077063ff2505490d2130bb3b237c4@seed-juno-testnet-01.stakeflow.io:13007  
-peer: 3d934af6e80077063ff2505490d2130bb3b237c4@peer-juno-testnet-01.stakeflow.io:13007  
-RPC: https://rpc-juno-testnet-01.stakeflow.io  
-API: https://api-juno-testnet-01.stakeflow.io  
-gRPC: grpc-juno-testnet-01.stakeflow.io:13002  
-
-### Comdex
-seed: 88ba33fbdf0279efaf27cff629f3cf72814d4069@seed-comdex-01.stakeflow.io:10007  
-peer: 88ba33fbdf0279efaf27cff629f3cf72814d4069@peer-comdex-01.stakeflow.io:10007  
-RPC: https://rpc-comdex-01.stakeflow.io  
-API: https://api-comdex-01.stakeflow.io  
-gRPC: grpc-comdex-01.stakeflow.io:10002  
-explorer: https://stakeflow.io/comdex  
-
-### Comdex Testnet
-seed: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@seed-comdex-testnet-01.stakeflow.io:11007  
-peer: 1221c8e0d23a9ca8095ca9e7e98a1e3d852d07a1@peer-comdex-testnet-01.stakeflow.io:11007   
-RPC: https://rpc-comdex-testnet-01.stakeflow.io  
-API: https://api-comdex-testnet-01.stakeflow.io/node_info  
-gRPC: grpc-comdex-testnet-01.stakeflow.io:11002  
-explorer: https://stakeflow.io/comdex-testnet  
-
-### Celestia mainnet
-seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007   
-peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007   
-RPC: https://rpc-celestia-01.stakeflow.io   
-API: https://api-celestia-01.stakeflow.io   
-gRPC: grpc-celestia-01.stakeflow.io:15002   
-explorer: https://stakeflow.io/celestia   
-
-### Celestia mocha testnet
-seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007   
-peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007   
-RPC: https://rpc-celestia-testnet-01.stakeflow.io   
-API: https://api-celestia-testnet-01.stakeflow.io   
-gRPC: grpc-celestia-testnet-01.stakeflow.io:16002   
-explorer: https://stakeflow.io/celestia-testnet   
-
-### Union testnet
+### Union Testnet
 seed: 0cc7b8fe863a102f3051e72e7f71582c3e487139@seed-union-testnet-01.stakeflow.io:21007   
 peer: 0cc7b8fe863a102f3051e72e7f71582c3e487139@peer-union-testnet-01.stakeflow.io:21007   
 RPC: https://rpc-union-testnet-01.stakeflow.io   
@@ -199,10 +199,18 @@ API: https://api-union-testnet-01.stakeflow.io
 gRPC: grpc-union-testnet-01.stakeflow.io:21002   
 explorer: https://stakeflow.io/union-testnet   
 
-### Band Protocol testnet
-seed: d9f8be9edd95794e08a6447cfb8bc02ace551ff8@seed-band-testnet-01.stakeflow.io   
-peer: d9f8be9edd95794e08a6447cfb8bc02ace551ff8@peer-band-testnet-01.stakeflow.io   
-RPC: http://rpc-band-testnet-01.stakeflow.io/   
-API: http://api-band-testnet-01.stakeflow.io/   
-gRPC: grpc-band-testnet-01.stakeflow.io:20002   
-explorer: https://stakeflow.io/band-protocol-testnet   
+### UX Chain
+seed: 88373a3bf385c20ef0b4040f924cd99848012535@seed-umee-01.stakeflow.io:26696  
+peer: 88373a3bf385c20ef0b4040f924cd99848012535@peer-umee-01.stakeflow.io:26696  
+RPC: https://rpc-umee-01.stakeflow.io  
+API: https://api-umee-01.stakeflow.io  
+gRPC: grpc-umee-01.stakeflow.io:9990  
+explorer: https://stakeflow.io/umee  
+
+### UX Chain Canon Testnet
+seed: 3e5c30d3b194365c7012daabfefc38f91c791092@seed-umee-testnet-01.stakeflow.io:12007  
+peer: 3e5c30d3b194365c7012daabfefc38f91c791092@peer-umee-testnet-01.stakeflow.io:12007  
+RPC: https://rpc-umee-testnet-01.stakeflow.io  
+API: https://api-umee-testnet-01.stakeflow.io  
+gRPC: grpc-umee-testnet-01.stakeflow.io:12002  
+explorer: https://stakeflow.io/ux-chain-canon  
