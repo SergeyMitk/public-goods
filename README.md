@@ -40,7 +40,7 @@ API: http://api-band-testnet-01.stakeflow.io/
 gRPC: grpc-band-testnet-01.stakeflow.io:20002   
 explorer: https://stakeflow.io/band-protocol-testnet   
 
-### Celestia mainnet
+### Celestia
 seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007   
 peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007   
 RPC: https://rpc-celestia-01.stakeflow.io   
@@ -48,7 +48,7 @@ API: https://api-celestia-01.stakeflow.io
 gRPC: grpc-celestia-01.stakeflow.io:15002   
 explorer: https://stakeflow.io/celestia   
 
-### Celestia mocha Testnet
+### Celestia Mocha Testnet
 seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007   
 peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007   
 RPC: https://rpc-celestia-testnet-01.stakeflow.io   
@@ -159,7 +159,7 @@ API: https://api-persistence-01.stakeflow.io
 gRPC: grpc-persistence-01.stakeflow.io:49090  
 explorer: https://stakeflow.io/persistence  
 
-### Persistence core-2 Testnet
+### Persistence Testnet
 seed: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@seed-persistence-testnet-01.stakeflow.io:11006  
 peer: 0134c0a888ab07d67c4a41afcb103b76266fb0e7@peer-persistence-testnet-01.stakeflow.io:11006  
 RPC: https://rpc-persistence-testnet-01.stakeflow.io  
@@ -199,7 +199,7 @@ API: https://api-union-testnet-01.stakeflow.io
 gRPC: grpc-union-testnet-01.stakeflow.io:21002   
 explorer: https://stakeflow.io/union-testnet   
 
-### UX-Chain
+### UX Chain
 seed: 88373a3bf385c20ef0b4040f924cd99848012535@seed-umee-01.stakeflow.io:26696  
 peer: 88373a3bf385c20ef0b4040f924cd99848012535@peer-umee-01.stakeflow.io:26696  
 RPC: https://rpc-umee-01.stakeflow.io  
@@ -207,7 +207,7 @@ API: https://api-umee-01.stakeflow.io
 gRPC: grpc-umee-01.stakeflow.io:9990  
 explorer: https://stakeflow.io/umee  
 
-### UX-Chain canon Testnet
+### UX Chain Canon Testnet
 seed: 3e5c30d3b194365c7012daabfefc38f91c791092@seed-umee-testnet-01.stakeflow.io:12007  
 peer: 3e5c30d3b194365c7012daabfefc38f91c791092@peer-umee-testnet-01.stakeflow.io:12007  
 RPC: https://rpc-umee-testnet-01.stakeflow.io  
