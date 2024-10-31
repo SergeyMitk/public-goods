@@ -1,5 +1,17 @@
 # Public Good Contributions
 
+### Polkadot
+API: https://api-polkadot-01.stakeflow.io  
+RPC: https://rpc-polkadot-01.stakeflow.io  
+WSS: wss://rpc-polkadot-01.stakeflow.io  
+explorer: https://stakeflow.io/polkadot  
+
+### Kusama
+API: https://api-kusama-01.stakeflow.io  
+RPC: https://rpc-kusama-01.stakeflow.io  
+WSS: wss://rpc-kusama-01.stakeflow.io  
+explorer: https://stakeflow.io/kusama  
+
 ### Agoric
 seed: 6ab5521047ae8e7bb0273a90029a6d445eb1a0a1@seed-agoric-01.stakeflow.io:2206  
 peer: 6ab5521047ae8e7bb0273a90029a6d445eb1a0a1@peer-agoric-01.stakeflow.io:2206  
